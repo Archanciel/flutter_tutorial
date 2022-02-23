@@ -1,0 +1,1 @@
+enum Msg {english, american}
